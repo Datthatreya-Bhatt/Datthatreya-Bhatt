@@ -1,55 +1,91 @@
 # 👋 Hey there, I'm Datthatreya Bhat
 
-![Profile Views](https://komarev.com/ghpvc/?username=Datthatreya-Bhatt&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Datthatreya-Bhatt\&color=blueviolet\&style=flat-square)
 
 ## 🚀 About Me
-🎓 Passionate Developer | 💻 Open Source Enthusiast | 🌱 Lifelong Learner  
 
-I love building efficient, scalable, and impactful software solutions.  
-Currently exploring **full-stack development**, **AI/ML**, and **DevOps tools**.  
+🎓 Passionate Developer | 💻 Open Source Enthusiast | 🌱 Lifelong Learner
 
-I enjoy solving problems and breaking them down into smaller, logical parts — occasionally breaking my code in the process too, but that’s just part of the learning curve 😄.  
+I love building efficient, scalable, and impactful software solutions.
+Currently exploring **full-stack development**, **AI/ML**, **system design**, and **DevOps**.
+
+I enjoy breaking down complex problems into simple logic — and occasionally breaking my own code in the process 😄.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Datthatreya-Bhatt&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Datthatreya-Bhatt\&show_icons=true\&theme=radical\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Datthatreya-Bhatt&layout=compact&langs_count=8&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Datthatreya-Bhatt\&layout=compact\&langs_count=8\&theme=radical\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Datthatreya-Bhatt&theme=radical&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Datthatreya-Bhatt\&theme=radical\&hide_border=true)
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-**Languages:**  
-Python 🐍 | JavaScript 🟨 | TypeScript 💙  
+## **Languages**
 
-**Frameworks & Tools:**  
-React ⚛️ | Node.js 🌐 | Express 🚀 | Docker 🐳 | Git 🔧  
+Python 🐍 | JavaScript 🟨 | TypeScript 💙
 
-**Databases:**  
-MongoDB 🍃 | PostgreSQL 🐘 | Couchbase ☕ | SQL & N1QL 🗃️  
+---
+
+## **Frameworks & Tools**
+
+React ⚛️ | Node.js 🌐 | Express 🚀 | Docker 🐳 | Git 🔧
+
+---
+
+## **Databases**
+
+MongoDB 🍃 | PostgreSQL 🐘 | Couchbase ☕ | SQL & N1QL 🗃️
 
 > 💡 *“My databases are like my jokes: some are relational, some are document-oriented, and Couchbase… well, it just tries to cache my humor.”*
 
+---
+
+# 🏗️ System Design & Architecture
+
+### **Architectures & Patterns**
+
+* Microservices
+* Monoliths
+* Mono-repo & Multi-repo microservices
+* CQRS
+* Event Sourcing
+* Saga Pattern
+* Event-Driven Architecture
+
+---
+
+# 🔌 Communication & API Technologies
+
+* REST 🌐
+* GraphQL 🕸️
+* gRPC 🚀
+
+---
+
+# 📡 Messaging & Streaming
+
+* Apache Kafka ⚡
+
+---
 
 ## 🌐 Connect with Me
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datthatreya-bhatt-094036256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/datthatreya-bhatt-094036256)
 
 ---
 
 ## 💡 Fun Fact
 
 😴 I would love to change the world, but they won’t give me the source code.
-
 Until then, I’m happy fixing my own bugs — one commit at a time 🧠💻.
 
 ---
 
 ⭐️ **From [Datthatreya-Bhatt](https://github.com/Datthatreya-Bhatt)**
+
+---
